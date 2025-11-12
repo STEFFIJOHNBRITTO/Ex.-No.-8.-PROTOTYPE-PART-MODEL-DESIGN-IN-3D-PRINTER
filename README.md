@@ -1,6 +1,5 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -41,14 +40,16 @@
 ###   2.	Place your Pen drive in USB.
 ###   3.	Clean the surface bed plate.
 ###   4.	Load filament into the required extruder as per the requirement.
-###   5.	Wait until the nozzle & bed plate comes into the required temperature.
+###   5.	Wait until the nozzle & bed plate comes inato the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2025-04-22 082424](https://github.com/user-attachments/assets/51c505bc-7cc2-4641-b35a-7a36c7d6920f)
+![Screenshot 2025-04-22 082442](https://github.com/user-attachments/assets/9d778ca9-4b98-4193-8cac-2cdf3d7bda11)
 
-### Name:
-### Register Number:
+### Name: STEFFI J
+### Register Number: 212224220107
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
